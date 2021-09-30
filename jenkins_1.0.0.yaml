@@ -29,7 +29,7 @@ x-ibm-configuration:
   assembly:
     execute:
     - invoke:
-        target-url: "https://www.facebook.com"
+        target-url: "https://www.youtube.com"
   phase: "realized"
 paths:
   /path-1:
